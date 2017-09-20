@@ -44,6 +44,4 @@ Kyle Fasanella
 
 Second Year Game Design and Development student
 
-
-
 ## References
