@@ -13,9 +13,9 @@ Web for desktop.
 
 
 ## Esthetics
-Graphics - Pixel Art, colorful.
-Sound - looping music.
-Try to have sounds for every action, from button clicks to fighting.
+*Graphics - Pixel Art, colorful.
+*Sound - looping music.
+*Try to have sounds for every action, from button clicks to fighting.
 
 ## Gameplay
 ### Mechanics
