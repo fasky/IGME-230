@@ -33,7 +33,8 @@ There will be a screen that shows the controls
 They may learn the enemies moves and range, and their own range and moves. They can use movement and attacks in tandem. May have powerups tied to hit streaks.
 
 ## Screenshots
-
+![concept1](https://github.com/fasky/IGME-230/blob/master/concept1.png "Concept")
+![concept2](https://github.com/fasky/IGME-230/blob/master/concept2.png "Concept2")
 
 ## Other
 
