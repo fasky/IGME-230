@@ -1,10 +1,10 @@
 # Spear of Cassius
 
 ## High Concept
-
+Fight a variety of giant monsters to reach the Spear. Kung Fu Master meets Evangelion.
 
 ## Genre
-Side-scroller beat 'em up
+Side-scroller beat 'em up.
 
 ## Platform
 Web for desktop.
@@ -15,13 +15,12 @@ The player controls a giant robot trying to reach a spear to throw at an enemy a
 ## Esthetics
 Graphics - Pixel Art, colorful.
 
-Sound - looping music.
+Sound - looping music. One track for menu, one for gameplay, and one for ending. Maybe play with the idea of changing when fighting certain enemies.
 
-Try to have sounds for every action, from button clicks to fighting.
+Try to have sounds for every action, from button clicks to fighting. 
 
 ## Gameplay
 ### Mechanics
-Sounds to signify achievement.
 
 
 ### Controls
