@@ -31,13 +31,17 @@ Visible Health Bar
 
 Hit combos/ hit counter - show the user how good they are doing.
 
-Satisfying enemy deaths and power-up obtainment.
+Satisfying enemy deaths and power-up obtainment - make the player feel like they achieved something.
 
 Using WASD to attack, throw punches, hit, etc.
 
 Using arrow keys to move.
 
+Enemies have own attacks, depend on player distance.
 
+QTEs in climax of game with spear.
+
+May have only one enemy of each type - unique.
 
 ### Controls
 Keyboard - WASD (fighting) and arrow keys (moving).
